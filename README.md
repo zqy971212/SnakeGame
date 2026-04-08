@@ -1,6 +1,6 @@
 # Classic Snake
-
-A small dependency-free Python Snake game with deterministic core logic and a minimal Tkinter UI.
+First project by using CodeX
+A small dependency-free Python Snake game with deterministic core logic and a minimal Tkinter UI creating by CodeX.
 
 ## Run
 
