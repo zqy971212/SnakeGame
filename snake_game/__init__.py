@@ -1,0 +1,2 @@
+"""Classic Snake game package."""
+
